@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>📚 Bookstore Analysis Using SQL</title>
@@ -59,45 +57,7 @@
     </ul>
   </section>
 
-  <section>
-    <h2>📊 Key SQL Operations Performed</h2>
-
-    <h3>Filtering and Sorting</h3>
-    <ul>
-      <li>Books by genre ("Fiction")</li>
-      <li>Books published after 1950</li>
-      <li>Orders placed in November 2023</li>
-    </ul>
-
-    <h3>Aggregations</h3>
-    <ul>
-      <li>Total stock available</li>
-      <li>Total revenue generated</li>
-      <li>Average price of "Fantasy" books</li>
-      <li>Total books sold by genre</li>
-    </ul>
-
-    <h3>Joins</h3>
-    <ul>
-      <li>Books and orders tables to get genre-wise sales</li>
-      <li>Orders and customers for order count</li>
-    </ul>
-
-    <h3>Group By and Having</h3>
-    <ul>
-      <li>Customers with at least 2 orders</li>
-      <li>Most frequently ordered books</li>
-    </ul>
-
-    <h3>Ranking and Limits</h3>
-    <ul>
-      <li>Most expensive book</li>
-      <li>Top 3 most expensive Fantasy books</li>
-      <li>Book with the lowest stock</li>
-    </ul>
-  </section>
-
-  <section>
+  
     <h2>📣 Get in Touch</h2>
     <p>Feel free to connect if you’d like to collaborate, ask questions, or learn more about data analytics!</p>
   </section>
