@@ -1,32 +1,4 @@
 
- 📚 Bookstore Analysis Using SQL</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #fdfdfd;
-      color: #333;
-      padding: 40px;
-      max-width: 900px;
-      margin: auto;
-      line-height: 1.6;
-    }
-    h1, h2 {
-      color: #2c3e50;
-    }
-    h3 {
-      margin-top: 30px;
-    }
-    ul {
-      padding-left: 20px;
-      list-style-type: disc;
-    }
-    section {
-      margin-bottom: 30px;
-    }
-  </style>
-</head>
-<body>
-
   <h1>📚 Bookstore Analysis Using SQL</h1>
 
   <section>
