@@ -1,27 +1,31 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>📚 Bookstore Analysis Using SQL</title>
   <style>
     body {
       font-family: Arial, sans-serif;
-      line-height: 1.6;
-      padding: 20px;
-      max-width: 800px;
+      background-color: #fdfdfd;
+      color: #333;
+      padding: 40px;
+      max-width: 900px;
       margin: auto;
-      background: #fdfdfd;
+      line-height: 1.6;
     }
-    h1, h2, h3 {
+    h1, h2 {
       color: #2c3e50;
     }
+    h3 {
+      margin-top: 30px;
+    }
     ul {
-      margin: 0;
       padding-left: 20px;
+      list-style-type: disc;
     }
     section {
-      margin-bottom: 25px;
-    }
-    .emoji {
-      font-size: 1.2em;
-      margin-right: 5px;
+      margin-bottom: 30px;
     }
   </style>
 </head>
@@ -31,7 +35,9 @@
 
   <section>
     <h2>🧾 Project Overview</h2>
-    <p>This project performs data analysis on a fictional bookstore using SQL. It extracts meaningful business insights from three datasets: <strong>Books</strong>, <strong>Customers</strong>, and <strong>Orders</strong>. The project demonstrates fundamental SQL querying skills including filtering, aggregation, joins, and ordering. It is ideal for showcasing your capabilities in handling real-world data scenarios related to retail and e-commerce.</p>
+    <p>
+      This project performs data analysis on a fictional bookstore using SQL. It extracts meaningful business insights from three datasets: <strong>Books</strong>, <strong>Customers</strong>, and <strong>Orders</strong>. The project demonstrates fundamental SQL querying skills including filtering, aggregation, joins, and ordering. It is ideal for showcasing your capabilities in handling real-world data scenarios related to retail and e-commerce.
+    </p>
   </section>
 
   <section>
